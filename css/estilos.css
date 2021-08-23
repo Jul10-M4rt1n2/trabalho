@@ -1,0 +1,25 @@
+div{
+	width: 100%;
+	background-color: rgba(0,0,0, 0.05);
+}
+h2{
+	float: left;
+	margin-left: 100px;
+}
+div button{
+	float: left;
+    margin-left: -80px;
+    margin-top: 53px;
+}
+h1{
+	width: 100%;
+    text-align: center;
+}
+form{
+	margin-right: 22%;
+    margin-left: 20%;
+}
+button{
+	margin-top: 40px;
+    font-size: 20pt;
+}
